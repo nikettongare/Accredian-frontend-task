@@ -1,1 +1,1 @@
-export const BACKEND_ENDPOINT="http://ec2-3-109-48-48.ap-south-1.compute.amazonaws.com:8080";
+export const BACKEND_ENDPOINT="https://accredian-server.nikettongare.com";
